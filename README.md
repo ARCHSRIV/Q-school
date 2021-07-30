@@ -1,0 +1,2 @@
+# Q-school
+react/redux
